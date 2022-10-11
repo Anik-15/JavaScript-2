@@ -54,8 +54,8 @@
 		document.getElementById('show').innerHTML = myname;
 	----------------------------------------------------------------------------------
 	2) document.write();
-		var a = 'g sarwar ';
-		var b = 'nahin';
+		var a = 'S S Anik';
+		var b = 'IT';
 		var myname = a+b;
 		document.write(myname);
 	--------------------------------------------------------------------------------
