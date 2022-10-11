@@ -9,7 +9,7 @@
 	------------------------------------------------------------------------------------------------
 	2) Variable :
 
-		var myname="Sarwar Khan";
+		var myname="Anik Khan";
 		document.write(myname + '<br />');
 
 	       (i) With Sum,Minus,Multiple, Divided:
