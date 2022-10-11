@@ -48,8 +48,8 @@
 
 ### javaScript Output show :
 	1) innerHTML (its define HTML Element)
-		var a = 'g sarwar ';
-		var b = 'nahin';
+		var a = 'S S Anik';
+		var b = 'IT';
 		var myname = a+b;
 		document.getElementById('show').innerHTML = myname;
 	----------------------------------------------------------------------------------
@@ -60,15 +60,15 @@
 		document.write(myname);
 	--------------------------------------------------------------------------------
 	3) window.alert();  or alert();
-		var a = 'g sarwar ';
-		var b = 'nahin';
+		var a = 'S S Anik';
+		var b = 'IT';
 		var myname = a+b;
 		window.alert(myname); 	(OR)      alert(myname);
 	 Note:: Its showing popup window on screen.
 	---------------------------------------------------------------------------------------
 	4) console.log(); 
-		var a = 'g sarwar ';
-		var b = 'nahin';
+		var a = 'S S Anik';
+		var b = 'IT';
 		var myname = a+b;
 		console.log(myname);
 	 Note:: Its show Browser Developer Tool console
