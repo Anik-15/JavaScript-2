@@ -84,6 +84,12 @@
 		console.timeEnd('Check Time';) 
 ***
 
+###JS Selector
+              document.getElementById('idname');
+	      document.getElementByClassName('Class Name')[0];
+	      document.getElementByTagName(Tag name)[0];
+	      document.querySelector('all'); -->#idname, .classname, tagname
+
 ### Include variables Symbole:
 	concate/concatination --> +
 	
