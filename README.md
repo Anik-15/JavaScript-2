@@ -77,18 +77,20 @@
 		console.info('You have a nice information.');   ---> Its show information icon.
 		console.warn('Do you go here');   --> Its show warning icon.
 		console.error(Its Undefined);  --> Its show error (x) icon.
+		
+### JS Selector
+              document.getElementById('idname');
+	      document.getElementByClassName('Class Name')[0];
+	      document.getElementByTagName(Tag name)[0];
+	      document.querySelector('all'); -->#idname, .classname, tagname		
+	
+	
 	(***) You showing variable/function run/excutive time;
 		console.time('Check Time');
 		var sum = 5+2;
 		console.log(sum);
 		console.timeEnd('Check Time';) 
 ***
-
-### JS Selector
-              document.getElementById('idname');
-	      document.getElementByClassName('Class Name')[0];
-	      document.getElementByTagName(Tag name)[0];
-	      document.querySelector('all'); -->#idname, .classname, tagname
 
 ### Include variables Symbole:
 	concate/concatination --> +
