@@ -84,7 +84,7 @@
 		console.timeEnd('Check Time';) 
 ***
 
-###JS Selector
+### JS Selector
               document.getElementById('idname');
 	      document.getElementByClassName('Class Name')[0];
 	      document.getElementByTagName(Tag name)[0];
